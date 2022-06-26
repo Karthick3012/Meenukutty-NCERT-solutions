@@ -1,1 +1,3 @@
-# Meenukutty-NCERT-solutions
+# Meenukutty...
+Top right corner la "code" nu oru button click on that
+A small pop-up will come, In that last option "Download ZIP" click that It'll download.
